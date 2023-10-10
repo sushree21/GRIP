@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans",cambria;
+    box-sizing: border-box;
+    background: #a2c2e9;
+}
+
+body{
+    min-height: 80vh;
+    display: flex;
+     background-color:coral;
+    align-items: center;
+    justify-content: center;
+    
+}
+p{
+    background-color: coral;
+}
